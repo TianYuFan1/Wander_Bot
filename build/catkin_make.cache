@@ -1,0 +1,2 @@
+wanderbot
+-DCATKIN_DEVEL_PREFIX=/home/sfan/wanderbot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sfan/wanderbot_ws/install -G Unix Makefiles
